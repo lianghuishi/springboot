@@ -19,7 +19,7 @@ public class Test {
     @RequestMapping("getMap")
     public Map<String,Object> getMap(){
         Map<String,Object> map = new HashMap<>();
-        map.put("xm",1);
+        map.put("xm",122);
         map.put("xh",2);
         map.put("xy",3);
         map.put("xy",4);
